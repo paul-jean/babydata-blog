@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "babydata 02 bottle feedings"
-gif: assets/2017/07/09/babydata-02-bottle-feedings-800px/babydata-02-bottle-feedings_38.gif
+gif: assets/2017/07/09/babydata-02-bottle-feedings-800px/babydata-02-bottle-feedings_40.gif
 date: 2017-07-09
 ---
 
