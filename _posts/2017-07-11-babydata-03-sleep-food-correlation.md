@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "babydata 03 sleep food correlation"
-gif: assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_2.gif
+gif: assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_64.gif
 date: 2017-07-11
 ---
 
@@ -100,4 +100,58 @@ It seems like I need to normalize each quantity by Toby\[CloseCurlyQuote]s age.
 ![babydata-03-sleep-food-correlation_47.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_47.gif)
 
 Controlling for the confounding influence of Toby\[CloseCurlyQuote]s age makes the correlation much less pronounced, if it\[CloseCurlyQuote]s there at all.
+
+![babydata-03-sleep-food-correlation_49.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_49.gif)
+
+![babydata-03-sleep-food-correlation_50.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_50.gif)
+
+![babydata-03-sleep-food-correlation_51.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_51.gif)
+
+![babydata-03-sleep-food-correlation_52.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_52.gif)
+
+![babydata-03-sleep-food-correlation_53.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_53.gif)
+
+![babydata-03-sleep-food-correlation_54.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_54.gif)
+
+![babydata-03-sleep-food-correlation_55.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_55.gif)
+
+![babydata-03-sleep-food-correlation_56.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_56.gif)
+
+![babydata-03-sleep-food-correlation_57.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_57.gif)
+
+![babydata-03-sleep-food-correlation_58.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_58.gif)
+
+![babydata-03-sleep-food-correlation_59.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_59.gif)
+
+![babydata-03-sleep-food-correlation_60.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_60.gif)
+
+![babydata-03-sleep-food-correlation_61.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_61.gif)
+
+![babydata-03-sleep-food-correlation_62.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_62.gif)
+
+![babydata-03-sleep-food-correlation_63.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_63.gif)
+
+![babydata-03-sleep-food-correlation_64.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_64.gif)
+
+The correlation coefficient is 0.027 hours/ounce, which is like 2 min of sleep per ounce of food:
+
+![babydata-03-sleep-food-correlation_66.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_66.gif)
+
+![babydata-03-sleep-food-correlation_67.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_67.gif)
+
+That\[CloseCurlyQuote]s a very small effect. Toby\[CloseCurlyQuote]s sleep time fluctuates more than this from day to day with identical bottle amounts:
+
+![babydata-03-sleep-food-correlation_69.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_69.gif)
+
+![babydata-03-sleep-food-correlation_70.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_70.gif)
+
+![babydata-03-sleep-food-correlation_71.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_71.gif)
+
+![babydata-03-sleep-food-correlation_72.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_72.gif)
+
+![babydata-03-sleep-food-correlation_73.gif](../../../assets/2017/07/11/babydata-03-sleep-food-correlation-600px/babydata-03-sleep-food-correlation_73.gif)
+
+For any given bottle amount, Toby\[CloseCurlyQuote]s sleep time fluctuates my tens of minutes to an hour. So the effect of 2 minutes per ounce on sleep time is negligible.
+
+So these results are consistent with no effect at all of final bottle amount on sleep time.
 
